@@ -1,0 +1,1 @@
+cmd_/home/chaitanya/work/linking/study-access-memmapped-devices/Module.symvers := sed 's/ko$$/o/' /home/chaitanya/work/linking/study-access-memmapped-devices/modules.order | scripts/mod/modpost -m -a   -o /home/chaitanya/work/linking/study-access-memmapped-devices/Module.symvers -e -i Module.symvers   -T -

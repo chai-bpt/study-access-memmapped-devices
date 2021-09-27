@@ -1,0 +1,7 @@
+sudo cat /proc/ioports
+sudo cat /proc/iomem
+sudo insmod <name>.ko
+dmesg
+modinfo <name>.ko
+lsmod
+sudo rmmod <name>

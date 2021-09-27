@@ -1,0 +1,1 @@
+cmd_/home/chaitanya/work/linking/study-access-memmapped-devices/ioapic.mod := { echo  /home/chaitanya/work/linking/study-access-memmapped-devices/ioapic.o;  echo; } > /home/chaitanya/work/linking/study-access-memmapped-devices/ioapic.mod

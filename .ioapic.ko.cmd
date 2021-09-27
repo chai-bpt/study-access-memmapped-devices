@@ -1,0 +1,1 @@
+cmd_/home/chaitanya/work/linking/study-access-memmapped-devices/ioapic.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/chaitanya/work/linking/study-access-memmapped-devices/ioapic.ko /home/chaitanya/work/linking/study-access-memmapped-devices/ioapic.o /home/chaitanya/work/linking/study-access-memmapped-devices/ioapic.mod.o;  true
